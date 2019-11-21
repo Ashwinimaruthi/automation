@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="automation">
+<test name="Tc_01_createemployee">
+<classes>
+  <class name="com.automatio.testscripts.datadrivan.Tc_01_createemployee"/>
+  </classes>
+  </test> 
+</suite> 
